@@ -32,4 +32,5 @@ for i in prime_2:
             if x<lim:
                 A.append(x)
 print len(set(A))
+
 print clock() - start
