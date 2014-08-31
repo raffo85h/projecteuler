@@ -25,6 +25,8 @@ def amicable(n):
     else:
         return False
 
+#The functions defined will be useful. Now we need the actual code.
+#=========TO BE COMPLETED!!!=========
 A=[]
 i=6
 j=0
